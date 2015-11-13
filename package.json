@@ -1,0 +1,10 @@
+{
+  "name": "@dmail/object-complete",
+  "version": "0.0.1",
+  "description": "Object.coomplete prolyfill",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmail/object-complete"
+  }
+}
